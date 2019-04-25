@@ -1,0 +1,15 @@
+
+arp_static.py: 
+    update the local arp table with static method.
+    including gamebox server and flag server.
+
+get_ip.py:
+    input the right ip's range.
+    then it will write all the ip in ip.txt.
+
+ssh-tool.py:
+    ssh connect all the gamebox servers and do something interesting.
+    something not yet happen!
+
+
+

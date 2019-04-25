@@ -1,0 +1,17 @@
+
+libc_search.py : 
+    find the libc's type according to the leak low 12 bits data.
+    some functions need to be improved.
+
+libc : 
+    all types of libc.
+    shold be updated in time.
+
+roputils.py : 
+    model that solves the ret2dlruntime's issues.
+
+ret2dlruntime_32.py : 
+    script to solve the ret2dlruntime's issues in 32 bits arch.
+    just need to change some variables.
+
+
